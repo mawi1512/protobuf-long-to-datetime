@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Protobuf-RuntimeModel-Datetime": {
+      "commandName": "Project",
+      "nativeDebugging": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "COMPlus_ReadyToRun": "0"
+      }
+    }
+  }
+}
